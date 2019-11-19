@@ -23,4 +23,5 @@
 <h3>Milestone #3: December 13th, 2019 </h3>
 <ul>
  <li>Figure out the line of symmetry</li>
+ <li>Finish the ReadME</li>
 </ul>
